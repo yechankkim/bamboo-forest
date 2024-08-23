@@ -32,12 +32,12 @@
   },
   "settings": {
     "event_subscriptions": {
-      "request_url": "https://<replace_this>.herokuapp.com/slack/events",
+      "request_url": "https://bamboo-forest.herokuapp.com/slack/events",
       "bot_events": ["app_mention", "message.channels"]
     },
     "interactivity": {
       "is_enabled": true,
-      "request_url": "https://<replace_this>.herokuapp.com/slack/events"
+      "request_url": "https://bamboo-forest.herokuapp.com/slack/events"
     },
     "org_deploy_enabled": false,
     "socket_mode_enabled": false,
